@@ -8,3 +8,10 @@
 ![alt](https://github.com/edonnally/Portfolio/blob/main/Images/Count%20of%20Movies%20by%20Genre.PNG)
 ![alt](https://github.com/edonnally/Portfolio/blob/main/Images/Coefficient%20Table.PNG)
 ![alt](https://github.com/edonnally/Portfolio/blob/main/Images/MarginalEffects.PNG)
+
+# [Project 2: Sudoku Solver with Python- Project Overview](https://github.com/edonnally/Sudoku-Solver)
+
+* Created a tool with Python that solves a sudoku board puzzle
+* Included a backtracking function so that the tool would not get stuck
+
+![alt](https://github.com/edonnally/Portfolio/blob/main/Images/boardsolved.PNG)
